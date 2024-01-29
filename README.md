@@ -1,2 +1,4 @@
 # Academia
-Archive of academic projects
+Archive of academic projects and reports
+# Structure
+
